@@ -89,3 +89,36 @@ Desarrollar un software capaz de traducir lenguaje de señas a texto o audio en 
 
 6. **Facilidad de uso**:
     - El software debe ser intuitivo y fácil de usar por cualquier persona, incluyendo usuarios que no tengan conocimientos técnicos.
+
+---
+
+## Fase de diseño
+
+### A. Interfaz grafica para android y pc.
+#### Inicio
+![image](https://github.com/user-attachments/assets/7877aa68-5256-4663-92be-38bc44d6831b)
+
+#### Interfaz opcion: lenguaje de señas a texto y audio
+![image](https://github.com/user-attachments/assets/a7352ab8-d3ab-4587-801f-07209c4dd29f)
+
+#### Interfaz opcion: audio o texto a lenguaje de señas
+![image](https://github.com/user-attachments/assets/8f30e75f-9824-4312-a3c7-21a1ef62cbe4)
+
+
+### B. Interfaz grafica para gafas de realidad virtual (VR).
+#### Inicio
+![image](https://github.com/user-attachments/assets/7877aa68-5256-4663-92be-38bc44d6831b)
+
+#### Interfaz VR opcion: lenguaje de señas a texto y audio
+![image](https://github.com/user-attachments/assets/e36e2a08-db14-4372-af01-300e0f35a957)
+
+#### Interfaz VR opcion: audio o texto a lenguaje de señas
+![image](https://github.com/user-attachments/assets/b518cba0-ad87-4046-95a9-cee7c39f4877)
+
+
+### C. Modelado entidad-relacion.
+![Imagen de WhatsApp 2024-10-25 a las 18 54 30_f0448415](https://github.com/user-attachments/assets/e7849c78-c230-476c-ab0e-a2d95bb730ed)
+
+
+### C. Modelado UML.
+![Imagen de WhatsApp 2024-10-25 a las 22 08 11_2443ed35](https://github.com/user-attachments/assets/0dd07f48-2ba1-42f6-a252-1e8dbdb28d9c)
